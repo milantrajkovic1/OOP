@@ -1,0 +1,47 @@
+-------STANJE PISTE-------
+Kapacitet: 6
+Trenutno aviona na pisti: 6
+--------SPISAK AVIONA----------
+Putnicki: 
+Kod Aviona: JU20C
+Naziv avio kompanije: AirSerbia
+Broj Sedista: 196
+Nepopunjena sedista: 25
+Masa kofera: 3.56
+0.872449
+Putnicki: 
+Kod Aviona: JS10X
+Naziv avio kompanije: SwissAir
+Broj Sedista: 201
+Nepopunjena sedista: 75
+Masa kofera: 1.87
+0.626866
+Putnicki: 
+Kod Aviona: JU02A
+Naziv avio kompanije: AirSerbia
+Broj Sedista: 196
+Nepopunjena sedista: 7
+Masa kofera: 4.85
+0.964286
+Teretni 
+Kod Aviona: TS10X
+Naziv avio kompanije: SwissAir
+Maxmimalni dolet: 7500
+Maximalna masa tereta: 25
+Trenunta masa tereta: 24.7
+0.988
+Teretni 
+Kod Aviona: TE007
+Naziv avio kompanije: Etihad
+Maxmimalni dolet: 15000
+Maximalna masa tereta: 75
+Trenunta masa tereta: 58.7
+0.782667
+Teretni 
+Kod Aviona: TS707
+Naziv avio kompanije: SwissAir
+Maxmimalni dolet: 9500
+Maximalna masa tereta: 65
+Trenunta masa tereta: 64.7
+0.995385
+
